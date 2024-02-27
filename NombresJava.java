@@ -9,7 +9,7 @@ public class NombresJava {
 		System.out.println("Estoy con mis compañeros: Guidnell Perez, Erick Villanueva, Enrique Chan, Ricardo Chab, Angel Nah");
 		System.out.println("1,2 y 3");		
 		System.out.println("Por favor Ramita funciona 1");
-		
+		System.out.println("Gracias Enrique");
 	}
 
 }
