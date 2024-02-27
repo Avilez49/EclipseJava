@@ -6,7 +6,7 @@ public class NombresJava {
 		// TODO Auto-generated method stub
 
 		System.out.println("Mi nombre es Diego Fernando Avilez Tzec");
-		System.out.println("Estoy con mis compañeros: Guidnell Perez, Erick Villanueva, Enrique Chan, Ricardo Chab, Angel Nah");	
-		}
+		System.out.println("Estoy con mis compañeros: Guidnell Perez, Erick Villanueva, Enrique Chan, Ricardo Chab, Angel Nah");
+		System.out.println("1,2 y 3");		}
 
 }
