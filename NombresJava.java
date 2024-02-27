@@ -10,6 +10,9 @@ public class NombresJava {
 		System.out.println("1,2 y 3");		
 		System.out.println("Por favor Ramita funciona 1");
 		System.out.println("Gracias Enrique");
+		System.out.println("Mientas más vives, más creces");
+		System.out.println("UNA NUEVA RAMAAAAAAA");		
+		System.out.println("Pou");
 	}
 
 }
